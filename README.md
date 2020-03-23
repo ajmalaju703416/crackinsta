@@ -3,7 +3,9 @@ This tool is combained from
 + CUPP - Common User Passwords Profiler Tool
 + Crackinsta Tool
 
-Added extra proxy list and if you can add more proxy list.
+# Installation steps in Termux & Kali linux
+Check Link : http://jtechcode.blogspot.com/2020/01/instagram-password-hacking-using-termux.html
+
 # Requirements 
 python3
 
